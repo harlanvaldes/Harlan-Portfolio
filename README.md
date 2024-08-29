@@ -8,7 +8,11 @@
 - <b>CompTIA CySA+</b> <br>
 <h3>Currently Working On:</h3>
 <b>- CCNA</b>
-<h2>- Projects</h2>
+<h2>- Projects & Learning</h2>
+<b>123</b><br>
+<b>456</b>
+<br><br><br>
+
 <a href="https://www.linkedin.com/in/harlan-valdes-muro/">
 <img align="left" alt="LinkedIn" width="36px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
 </a> Let's Connect on LinkedIn
