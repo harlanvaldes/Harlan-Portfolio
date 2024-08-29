@@ -7,10 +7,11 @@
 - <b>CompTIA Security+</b> <br>
 - <b>CompTIA CySA+</b> <br>
 <h3>Currently Working On:</h3>
-<b>- CCNA</b>
+- <b>CCNA</b>
 <h2>- Projects & Learning</h2>
 - MS Learn MD-102: Microsoft 365 Endpoint Administrator<br>
 - To-Do: Python log collector with webhook<br>
+- DONT FORGET ADD THINGS HERE HARLAN
 
 <h2>- Current Readings</h2>
 Practice of System and Network Administration, The: DevOps and other Best Practices for Enterprise IT, Volume 1
