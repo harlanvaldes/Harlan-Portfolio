@@ -9,11 +9,13 @@
 <h3>Currently Working On:</h3>
 <b>- CCNA</b>
 <h2>- Projects & Learning</h2>
-<b>123</b><br>
-<b>456</b>
-<br><br><br>
+- MS Learn MD-102: Microsoft 365 Endpoint Administrator<br>
+- To-Do: Python log collector with webhook<br>
 
-<a href="https://www.linkedin.com/in/harlan-valdes-muro/">
+<h2>- Current Readings</h2>
+Practice of System and Network Administration, The: DevOps and other Best Practices for Enterprise IT, Volume 1
+
+<br><br><br><a href="https://www.linkedin.com/in/harlan-valdes-muro/">
 <img align="left" alt="LinkedIn" width="36px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
 </a> Let's Connect on LinkedIn
 
