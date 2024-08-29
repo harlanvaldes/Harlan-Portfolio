@@ -1,4 +1,3 @@
-
 <h1>Harlan Valdes Muro - Portfolio </h1>
 <h2> - Home labs, Projects, and Documentation </h2>
 - <a href="https://github.com/harlanvaldes/harlanvaldes/blob/main/Previous/Previous-Projects.png" target="_blank"> Home Labs previous to portfolio</a>
