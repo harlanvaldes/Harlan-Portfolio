@@ -1,4 +1,4 @@
-<h1>Harlan Valdes Muro - Portfolio (WIP) </h1>
+<h1>Harlan Valdes Muro - Portfolio | Began documenting 08/29/2024</h1>
 <h2> - Home labs, Projects, and Documentation </h2>
 - <a href="https://github.com/harlanvaldes/harlanvaldes/blob/main/Previous/Previous-Projects.png" target="_blank"> Home Labs previous to portfolio</a>
 <h2> - Certifications </h2>
@@ -8,9 +8,13 @@
 <h3>Currently Working On:</h3>
 - <b>CCNA</b>
 <h2>- Projects & Learning</h2>
-- MS Learn MD-102: Microsoft 365 Endpoint Administrator<br>
+- MS Learn + CBTNuggets MD-102: Microsoft 365 Endpoint Administrator<br>
+<h3> <a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets" target="_blank"> CBT Nuggets Labs</a><br></h3>
+<ul>
+  <li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets/USMT" target="_blank"> User State Migration Tool Profile Migration</a></li>
+</ul>  
+<br>
 - To-Do: Python log collector with webhook<br>
-- DONT FORGET ADD THINGS HERE AFTER WAKING UP HARLAN
 
 <h2>- Current Readings</h2>
 Practice of System and Network Administration, The: DevOps and other Best Practices for Enterprise IT, Volume 1
