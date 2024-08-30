@@ -14,7 +14,7 @@
   <li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets/USMT" target="_blank"> User State Migration Tool Profile Migration</a></li>
 </ul>  
 <br>
-- Jeremy's IT Lab Packet Tracer Labs
+- Jeremy's IT Lab Packet Tracer Labs<br>
 - To-Do: Python log collector with webhook<br>
 
 <h2>- Current Readings</h2>
