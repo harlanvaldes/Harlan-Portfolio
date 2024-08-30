@@ -1,0 +1,10 @@
+Goal: Migrate user profile PhoenixUser01 to a brand new account PhoenixUser04
+
+Steps: 
+1. Logged into user account to confirm existing apps, settings, and info
+2. Signed out of user account and logged into Domain Administrator account
+3. Through "netuse z: \\dc01\public" mapped the network drive containing the necessary USMT folder
+4. Ran CMD inside the USMT directory and used the following commands:
+[scanstate z:\store /o /ue:*\* /ui:nuggetlab\PhoenixUser01 /i:miguser.xml /i:migdocs.xml /i:migapp.xml /encrypt /key: "usmtsecret"] to scan only the PhoenixUser01 profile for the files inside the User folder (miguser.xml), all other non-hidden user files (migdocs.xml), and the Application Settings (migapp.xml), all encrypted with the pasword "usmtsecret"
+[loadstate z:\store /mu:nuggetlab\PhoenixUser01:nuggetlab\PhoenixUser04 /i:miguser.xml /i:migdocs.xml /i:migapp.xml /decrypt /key:"usmtsecret" /c] to migrate Domain User PhoenixUser01 to DomainUser04's profile and load the previously saved migration file through non-fatal errors (/c)
+5. Logged into PhoenixUser04 and confirmed everything was migrated succesfully
