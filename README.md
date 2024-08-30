@@ -9,7 +9,7 @@
 - <b>CCNA</b>
 <h2>- Projects & Learning</h2>
 - MS Learn + CBTNuggets MD-102: Microsoft 365 Endpoint Administrator<br>
-<h3> <a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets" target="_blank"> CBT Nuggets Labs</a><br></h3>
+<h3>- <a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets" target="_blank"> CBT Nuggets Labs</a><br></h3>
 <ul>
   <li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets/USMT" target="_blank"> User State Migration Tool Profile Migration</a></li>
 </ul>  
