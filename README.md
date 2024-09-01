@@ -12,6 +12,7 @@
 <h3>- <a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets" target="_blank"> CBT Nuggets Labs</a><br></h3>
 <ul>
   <li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets/USMT" target="_blank"> User State Migration Tool Profile Migration</a></li>
+  <li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets/WICD Basic" target="_blank"> Desktop Provisioning Package Creation + Installation</a></li>
 </ul>  
 <br>
 - Jeremy's IT Lab Packet Tracer Labs<br>
