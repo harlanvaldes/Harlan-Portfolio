@@ -13,6 +13,7 @@
 <ul>
   <li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets/USMT" target="_blank"> User State Migration Tool Profile Migration</a></li>
   <li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets/WICD Basic" target="_blank"> Desktop Provisioning Package Creation + Installation</a></li>
+<li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets/WSIM unattend" target="_blank">WSIM Installation Automation</a></li>
 </ul>  
 <br>
 - Jeremy's IT Lab Packet Tracer Labs<br>
