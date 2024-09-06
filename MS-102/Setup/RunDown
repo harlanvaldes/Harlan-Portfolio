@@ -3,3 +3,10 @@ Set up the following M365 environment:
 - Domain/Tenant: harlanv.onmicrosoft.com
 - Administrator: administrator@harlanv.onmicrosoft.com
 - Initial User count of 10
+
+*** Security ***
+
+- Password Expiration policy of 365 Days per NIST standards
+- Idle Session Timeout: 3 Hours
+
+* WIP, Finishing MS-102 course 09/06/2024 then working on lab
