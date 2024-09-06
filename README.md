@@ -1,4 +1,4 @@
-<h1>Harlan Valdes Muro - Portfolio | Began documenting 08/29/2024</h1>
+<h1>Harlan Valdes Muro - Portfolio | Began documenting</h1>
 <h2> - Home labs, Projects, and Documentation </h2>
 - <a href="https://github.com/harlanvaldes/harlanvaldes/blob/main/Previous/Previous-Projects.png" target="_blank"> Home Labs previous to portfolio</a>
 <h2> - Certifications </h2>
