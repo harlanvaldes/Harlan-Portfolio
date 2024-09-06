@@ -8,7 +8,8 @@
 <h3>Currently Working On:</h3>
 - <b>CCNA</b>
 <h2>- Projects & Learning</h2>
-- MS Learn + CBTNuggets MD-102: Microsoft 365 Endpoint Administrator<br>
+- MS Learn + CBTNuggets MD-102: Microsoft 365 Endpoint Administrator (In Progress)<br>
+- MS Learn + CBTNuggets MS-102: Microsoft 365 Administrator (In Progress)<br> 
 <h3>- <a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/MS-102" target="_blank"> MS-102 / M365 Lab </a><br></h3>
 <ul>
   <li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets/MS-102/Setup" target="_blank"> Setting Up M365</a></li>
