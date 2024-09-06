@@ -22,7 +22,7 @@
 </ul>  
 <br>
 - Jeremy's IT Lab Packet Tracer Labs<br>
-- To-Do: Python log collector with webhook<br>
+- To-Do: Python Projects (First one likely log collector with webhook)<br>
 
 <h2>- Current Readings</h2>
 Practice of System and Network Administration, The: DevOps and other Best Practices for Enterprise IT, Volume 1
