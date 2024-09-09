@@ -13,6 +13,7 @@
 <h3>- <a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/MS-102" target="_blank"> MS-102 / M365 Lab (WIP)</a><br></h3>
 <ul>
   <li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets/MS-102/Setup" target="_blank"> Setting Up M365</a></li>
+  <li><a href="https://github.com/MicrosoftLearning/MS-102T00-Microsoft-365-Administrator-Essentials/tree/master/Instructions/Labs" target="_blank"> Running through these labs</li>
 </ul>  
 <h3>- <a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets" target="_blank"> CBT Nuggets Labs</a><br></h3>
 <ul>
