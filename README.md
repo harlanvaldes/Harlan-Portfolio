@@ -23,7 +23,6 @@
 <li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets/WSIM unattend" target="_blank">WSIM Installation Automation</a></li>
 </ul>
 <h3>- <a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/KustoAgency" target="_blank"> Kusto Detective Agency KQL Puzzles</a><br></h3>  
-<br>
 - Jeremy's IT Lab Packet Tracer Labs<br>
 - To-Do: Python Projects (First one likely log collector with webhook)<br>
 
