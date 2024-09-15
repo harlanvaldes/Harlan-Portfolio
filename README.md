@@ -1,4 +1,5 @@
-<h1>Harlan Valdes Muro - Portfolio</h1>
+<h1>Harlan Valdes Muro - Portfolio <a href="https://www.credly.com/users/harlan-valdes-muro/">
+<img align="right" alt="Credly" width="44px" src="https://www.svgrepo.com/show/331358/credly.svg"/></h1>
 <h2> - Home labs, Projects, and Documentation </h2>
 - <a href="https://github.com/harlanvaldes/harlanvaldes/blob/main/Previous/Previous-Projects.png" target="_blank"> Home Labs previous to portfolio</a>
 <h2> - Certifications </h2>
@@ -9,7 +10,7 @@
 - <b>CCNA</b>
 <h2>- Projects & Learning</h2>
 - MS Learn + CBTNuggets MD-102: Microsoft 365 Endpoint Administrator (In Progress)<br>
-- MS Learn + CBTNuggets MS-102: Microsoft 365 Administrator<br> 
+- MS Learn + CBTNuggets MS-102: Microsoft 365 Administrator<br>
 <h3>- <a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/MS-102" target="_blank"> MS-102 / M365 Lab (WIP)</a><br></h3>
 <ul>
   <li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/MS-102/Setup" target="_blank"> Setting Up M365</a></li>
@@ -20,7 +21,8 @@
   <li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets/USMT" target="_blank"> User State Migration Tool Profile Migration</a></li>
   <li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets/WICD Basic" target="_blank"> Desktop Provisioning Package Creation + Installation</a></li>
 <li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/CBTNuggets/WSIM unattend" target="_blank">WSIM Installation Automation</a></li>
-</ul>  
+</ul>
+<h3>- <a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/KustoAgency" target="_blank"> Kusto Detective Agency KQL Puzzles</a><br></h3>  
 <br>
 - Jeremy's IT Lab Packet Tracer Labs<br>
 - To-Do: Python Projects (First one likely log collector with webhook)<br>
