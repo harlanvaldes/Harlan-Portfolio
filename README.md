@@ -1,5 +1,5 @@
 <h1>Harlan Valdes Muro - Portfolio <a href="https://www.credly.com/users/harlan-valdes-muro/">
-<img align="right" alt="Credly" width="44px" src="https://www.svgrepo.com/show/331358/credly.svg"/></h1>
+<img align="right" alt="Credly" width="44px" src="https://www.svgrepo.com/show/331358/credly.svg"/></h1><br>
 <h2> - Home labs, Projects, and Documentation </h2>
 - <a href="https://github.com/harlanvaldes/harlanvaldes/blob/main/Previous/Previous-Projects.png" target="_blank"> Home Labs previous to portfolio</a>
 <h2> - Certifications </h2>
