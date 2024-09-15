@@ -1,0 +1,15 @@
+// First it extracts the bounties by converting the initial str entries to real numbers, finds the first solver for each case as only the first detective to solve would get credit/paid for it, then performs an inner join and tallies up the bounties to see which detective made the most money
+
+let Bounties = 
+DetectiveCases
+| extend Bounty = toreal(Properties.Bounty)
+| project CaseId, Bounty;
+let FirstToSolve =
+DetectiveCases 
+| where EventType == "CaseSolved"
+| summarize arg_min(Timestamp, DetectiveId) by CaseId;
+DetectiveCases
+| join kind=inner FirstToSolve on CaseId
+| join kind=inner Bounties on CaseId
+| summarize TotalGained=sum(Bounty) by DetectiveId1
+| top 1 by TotalGained desc
