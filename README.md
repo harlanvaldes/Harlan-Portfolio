@@ -25,8 +25,9 @@
 <h3>- <a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/KustoAgency" target="_blank"> Kusto Detective Agency KQL Puzzles</a><br></h3>
 <h3>- <a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/theforage" target="_blank"> The Forage: Virtual Job Simulations</a></h3>
 <ul>
-<li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/theforage/Mastercard" target="_blank"> Mastercard Cybersecurity Job Simulation (Anti-Phishing)</li>
+<li><a href="https://github.com/harlanvaldes/harlanvaldes/tree/main/theforage/Mastercard" target="_blank"> Mastercard Cybersecurity Job Simulation (Anti-Phishing)</a></li>
 </ul><br>
+  
 - Jeremy's IT Lab Packet Tracer Labs<br>
 - To-Do: Python Projects (First one likely log collector with webhook)<br>
 
